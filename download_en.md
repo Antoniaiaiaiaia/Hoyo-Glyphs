@@ -6,19 +6,38 @@
 
 ## Links
 
-- [Teyvat Glyph](font/genshin-impact/TeyvatNeue-Regular-1.002.otf)
-- [Inazuma Glyph](font/genshin-impact/InazumaNeue-Regular-0.006.otf)
-- [Sumeru Glyph](font/genshin-impact/SumeruNeue-Regular-0.006.otf)
-- [Khaenri'ah Glyph](font/genshin-impact/KhaenriahNeue-Regular-2.000.otf)
-- [Khaenri'ah Glyph - The Chasm's Variant](font/genshin-impact/KhaenriahNeue-Chasm-2.000.otf)
-- [Honkai Star Rail Glyph](font/honkai-star-rail/StarRailNeue-Regular-0.002.otf)
-- [ZZZ Glyph - Variant A](font/zenless-zone-zero/ZZZNeue-VariantA-0.003.otf)
-- [ZZZ Glyph - Variant B](font/zenless-zone-zero/ZZZNeue-VariantB-0.003.otf)
-- [All Alphabets](doc/Hoyo-Glyphs-alphabet.pdf)
+[The Alphabet](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/Alphabet-20240713)
 
+### Genshin Impact
+
+- [Teyvat Black](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/teyvat-black-1.003) (The common script on Teyvat)
+- [Inazuma Glyph](font/genshin-impact/inazuma/InazumaNeue-Regular-1.000.otf)
+- [Sumeru Glyph](font/genshin-impact/sumeru/SumeruNeue-Regular-0.007.otf)
+- [Deshret Glyph](font/genshin-impact/deshret/DeshretNeue-Regular-1.002.otf)
+- Khaenri'ah Glyph
+  - [Regular](font/genshin-impact/khaenriah/KhaenriahNeue-Regular-2.000.otf)
+  - [The Chasm's Variant](font/genshin-impact/khaenriah/KhaenriahNeue-Chasm-2.000.otf)
+- [Font Ainee](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/font-ainee-1.000) (Used in Fontaine)
+
+### Honkai - Star Rail
+
+- [Star Rail Neue - Family](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/releases/tag/star-rail-neue-1.100) (Used in Belobog, Herta Space Station, and UI)
+- [Xianzhou Seal - Family](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/xianzhou-seal-1.000) (Used in 6 spaceships of Xianzhou)
+
+### Zenless Zone Zero
+
+- [ZZZ A](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/zzz-a-1.000)
+- [ZZZ System](https://github.com/SpeedyOrc-C/HoYo-Glyphs/releases/tag/zzz-system-1.000) (Used in game's UI)
+
+### Honkai 3<sup>rd</sup> II
+
+[Martian](https://github.com/SpeedyOrc-C/Honkai-3rd-II-Martian)'s
+writing system is quite complicated, thus we do not make a font for it for now. Now it has been implemented with web technology.
 ## Notice
 
-Please uninstall the old font before install the new one. 
+* For all fonts released after May 2023, you will find `ttf`, `otf`, `woff2` and apple device version.
+* Apple device version contains fonts in `otf` format, which can be found in folder `apple`.
+* Please uninstall the old font before install the new one.
 
 ## Using Variants
 
